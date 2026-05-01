@@ -136,13 +136,13 @@ Superstore-SQL-Project/
 ![Overview Dashboard](Superstore-SQL-Project/images/Overview_Dashboard.png)
 
 ### 2. Customer Analysis
-![Customer Analysis](images/Customer_Analysis.png)
+![Customer Analysis](Superstore-SQL-Project/images/Customer_Analysis.png)
 
 ### 3. Product Analysis
-![Product Analysis](images/Product_Analysis.png)
+![Product Analysis](Superstore-SQL-Project/images/Product_Analysis.png)
 
 ### 4. Time Analysis
-![Time Analysis](images/Time_Analysis.png)
+![Time Analysis](Superstore-SQL-Project/images/Time_Analysis.png)
 ---
 
 ## 💡 Business Recommendations
