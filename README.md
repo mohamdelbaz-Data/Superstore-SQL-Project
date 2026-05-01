@@ -128,7 +128,6 @@ Superstore-SQL-Project/
 
 ---
 
-## 📸 Dashboard Preview
 
 ## 📸 Dashboard Preview
 
