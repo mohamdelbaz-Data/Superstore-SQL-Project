@@ -130,7 +130,7 @@ Superstore-SQL-Project/
 
 ## 📸 Dashboard Preview
 
-![Dashboard](images/Customer Analysis.png)
+![Dashboard](Superstore-SQL-Project/images/Customer Analysis.png)
 ![Dashboard](images/Overview Dashboard.png)
 ![Dashboard](images/Product Analysis.png)
 ![Dashboard](images/Time Analysis.png)
